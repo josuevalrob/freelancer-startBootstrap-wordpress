@@ -1,5 +1,4 @@
 # Wordpress in Freelancer a theme from Startbootstrap. 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 Read the full guide on my [blog](https://josuevalrob.com/freelancer-startbootstrap-wordpress).
 

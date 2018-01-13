@@ -1,5 +1,5 @@
 <?php 
-$id = 2; // add the ID of the page where the zero is
+$id = 2; // add the ID of the page where the 2 is
 $p = get_page($id);
 $t = $p->post_title;
 ?>

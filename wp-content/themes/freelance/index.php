@@ -5,11 +5,11 @@
       <?php get_template_part( 'navigation'); ?>
 
 
-    <!-- Header -->
+    <!-- Banner -->
       <?php get_template_part( 'banner'); ?>
 
 
-    <!-- Portfolio Grid Section -->
+    <!-- Post Grid Section -->
       <?php get_template_part( 'portfolio'); ?>
 
     <!-- About Section -->
